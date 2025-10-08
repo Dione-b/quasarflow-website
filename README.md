@@ -1,5 +1,7 @@
 # QuasarFlow Website
 
+![QuasarFlow Website Preview](./public/preview.png)
+
 > Modern landing page and documentation for QuasarFlow API - Blockchain abstraction API that simplifies Stellar network integration
 
 ## About
