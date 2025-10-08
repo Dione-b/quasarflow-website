@@ -24,6 +24,53 @@ This is the official website for QuasarFlow API, featuring:
 - 🔗 **API Reference** with detailed endpoints
 - 💻 **Code Examples** in multiple programming languages
 
+## Roadmap 2025-2026
+
+### 🚀 Phase 1 - Core Foundation (Q1 2025)
+
+- [x] **Website Development** - Modern landing page with responsive design
+- [x] **Basic Documentation** - Getting started guide and API reference
+- [x] **SEO Optimization** - Meta tags, structured data, and performance
+- [ ] **Go API Backend** - Core blockchain abstraction layer
+- [ ] **PostgreSQL Integration** - Database setup and schema design
+- [ ] **Stellar Network Integration** - Basic wallet operations
+
+### ⚡ Phase 2 - Advanced Features (Q2 2025)
+
+- [ ] **Authentication System** - JWT-based API authentication
+- [ ] **Wallet Management** - Create, import, and manage wallets
+- [ ] **Payment Processing** - Send and receive payments
+- [ ] **External Wallet Support** - SEP-10 verification
+- [ ] **Rate Limiting** - API protection and monitoring
+- [ ] **Docker Deployment** - Containerized deployment setup
+
+### 🔧 Phase 3 - Developer Experience (Q3 2025)
+
+- [ ] **SDK Development** - JavaScript, Python, and Go SDKs
+- [ ] **Webhook System** - Real-time event notifications
+- [ ] **Advanced Documentation** - Interactive API explorer
+- [ ] **Testing Suite** - Comprehensive test coverage
+- [ ] **CI/CD Pipeline** - Automated testing and deployment
+- [ ] **Monitoring & Logging** - Production-ready observability
+
+### 🌟 Phase 4 - Enterprise Features (Q4 2025)
+
+- [ ] **Multi-tenant Support** - Organization and team management
+- [ ] **Advanced Security** - AES-256-GCM encryption
+- [ ] **Compliance Tools** - KYC/AML integration
+- [ ] **Analytics Dashboard** - Usage metrics and insights
+- [ ] **White-label Solutions** - Customizable API branding
+- [ ] **Enterprise Support** - 24/7 technical support
+
+### 🚀 Future Vision (2026+)
+
+- [ ] **Multi-blockchain Support** - Ethereum, Bitcoin, and more
+- [ ] **DeFi Integration** - DEX and lending protocol support
+- [ ] **NFT Marketplace** - Token creation and trading
+- [ ] **Mobile SDKs** - React Native and Flutter support
+- [ ] **GraphQL API** - Modern query interface
+- [ ] **AI-powered Analytics** - Predictive insights and recommendations
+
 ## Getting Started
 
 ### Prerequisites
